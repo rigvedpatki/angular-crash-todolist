@@ -1,5 +1,11 @@
 # AngularCrashTodolist
 
+App created by following instructions from YouTube channel Travery Media 
+
+Please click on [link](https://www.youtube.com/watch?v=Fdf5aTYRW0E) for the YouTube video tutorial by DesignCourse
+
+Thanks a lot to Brad for making it easy for me to understand Angular as a complete noobe myself.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
 
 ## Development server
